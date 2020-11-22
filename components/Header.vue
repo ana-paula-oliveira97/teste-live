@@ -32,6 +32,11 @@
               ></b-nav-item
             >
             <b-nav-item>
+              <NuxtLink class="fonte-menu" to="/audio"
+                >Audios
+              </NuxtLink></b-nav-item
+            >
+            <b-nav-item>
               <NuxtLink class="fonte-menu" to="/formulario"
                 >Formulário</NuxtLink
               >

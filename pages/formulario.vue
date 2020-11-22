@@ -47,7 +47,6 @@
 
         <b-form-group id="input-group-4">
           <b-form-checkbox-group v-model="form.checked" id="checkboxes-4">
-            <b-form-checkbox value="me">Check me out</b-form-checkbox>
           </b-form-checkbox-group>
         </b-form-group>
 
@@ -69,10 +68,11 @@ export default {
         checked: [],
       },
       foods: [
-        { text: "Select One", value: null },
+        { text: "Escolha um protudo", value: null },
         "Fotos",
         "Sapatos",
         "Meias",
+        "Audios",
         "outros",
       ],
       show: true,
