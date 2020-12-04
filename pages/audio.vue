@@ -6,6 +6,9 @@
     <h1>Audios persinalidados.</h1>
     <b-table striped hover :items="meia"></b-table>
     <p>Mais que 5 minutos, entrar em contado por E-mail</p>
+    <p></p>
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
   </div>
 </template>
 <script>

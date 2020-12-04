@@ -1,6 +1,6 @@
 <template>
   <div class="rodape">
-    <p>Nossas contatos:</p>
+    <p>Nosso contato:</p>
     <p>Email: packfotos2020@gmail.com</p>
     <br />
     <NuxtLink to="/"> </NuxtLink>

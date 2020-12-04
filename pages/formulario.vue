@@ -53,6 +53,11 @@
         <b-button type="submit" variant="primary">Enviar</b-button>
         <b-button type="reset" variant="danger">Cancelar</b-button>
       </b-form>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
     </div>
   </div>
 </template>

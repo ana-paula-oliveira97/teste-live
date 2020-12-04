@@ -12,6 +12,19 @@
       ate mesmo conhecer mais a gente entre em contato.
       <p></p>
       <strong>Email</strong>: packfotos2020@gmail.com<br />
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
     </div>
   </div>
 </template>
